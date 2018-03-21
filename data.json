@@ -1,0 +1,35 @@
+{
+  "basics":{
+    "photo":"image.jpg",
+    "name":"shivathulasi",
+    "email":"mtulasi02@gmail.com",
+    "mobile":"876857887"
+  },
+  "education":[
+    {
+      "course":"b.tech(computer science and engineering)",
+      "college":[
+        "G PULLAIAH COLLEGE OF ENGINEERING & TECHNOLOGY",
+        "2015-2019",
+        "65"
+      ]
+    },
+    {
+      "course":"Intermediate(MPC)",
+      "college":[
+        "KGR",
+        "2013-2015",
+        "80"
+      ]
+    },
+    {
+      "course":"SSC",
+      "college":[
+        "Nehru high school",
+        "2012",
+        "90"
+      ]
+    }
+  ]
+
+}
